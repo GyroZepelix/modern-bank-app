@@ -6,4 +6,4 @@ const Stats = () => {
   )
 }
 
-export default Statsf
+export default Stats
