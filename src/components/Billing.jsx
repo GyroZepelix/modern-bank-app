@@ -15,7 +15,7 @@ const Billing = () => (
 
       <div className='flex flex-row flex-wrap sm:mt-10 mt-6'>
         <img src={apple} alt="apple" className='w-[128px] h-[42px] object-contain mr-5 cursor-pointer' />
-        <img src={apple} alt="apple" className='w-[128px] h-[42px] object-containcursor-pointer' />
+        <img src={google} alt="google" className='w-[128px] h-[42px] object-contain cursor-pointer' />
       </div>
     </div>
   </section>
